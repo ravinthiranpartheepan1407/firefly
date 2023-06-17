@@ -9,18 +9,17 @@ export default {
       </span>
     </>
   ),
+  footerText: ({ locale }) => (
+    <>Firefly ${new Date().getFullYear()} © Arkhamm AI.</>
+  ),
   banner: {
     key: "Firefly - Version 0.1",
     text: "Firefly - An Open Source Distributed Deep Learning Framework",
   },
   chat: {
-    link: "https://discord.gg/hEM84NMkRv", // Next.js discord server,
+    link: "https://firefly.arkhamm.com", // Next.js discord server - yet to update,
   },
-  docsRepositoryBase:
-    "https://github.com/shuding/nextra/blob/core/examples/docs",
-  editLink: {
-    text: "Edit this page on GitHub",
-  },
+  docsRepositoryBase: "https://github.com/ravinthiranpartheepan1407/firefly",
   faviconGlyph: "✦",
   useNextSeoProps() {
     const { frontMatter } = useConfig();
