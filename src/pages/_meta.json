@@ -1,3 +1,9 @@
 {
-    "index": "Get Started"
+    "index": "Get Started",
+    "community": "Community",
+    "developer-notes": "Developer Notes",
+    "firefly": "Firefly",
+    "infernix": "Infernix",
+    "language-bindings": "Language Bindings",
+    "models": "Models"
 }
