@@ -10,13 +10,7 @@ export default {
     </>
   ),
   footer: true,
-  themeSwitch: {
-    useOptions() {
-      return {
-        dark: "Dark",
-      };
-    },
-  },
+  themeSwitch: false,
   footerText: ({ locale }) => (
     <>Firefly ${new Date().getFullYear()} © Arkhamm AI.</>
   ),
