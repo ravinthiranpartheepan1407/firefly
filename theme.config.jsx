@@ -9,6 +9,7 @@ export default {
       </span>
     </>
   ),
+  footer: true,
   footerText: ({ locale }) => (
     <>Firefly ${new Date().getFullYear()} © Arkhamm AI.</>
   ),
