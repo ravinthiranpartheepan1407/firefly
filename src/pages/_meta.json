@@ -2,8 +2,9 @@
     "index": "Get Started",
     "community": "Community",
     "developer-notes": "Developer Notes",
-    "firefly": "Firefly",
     "infernix": "Infernix",
+    "firefly": "Firefly",
+    "models": "Models",
     "language-bindings": "Language Bindings",
-    "models": "Models"
+    "deployment": "Deployment"
 }

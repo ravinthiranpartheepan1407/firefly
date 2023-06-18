@@ -1,3 +1,18 @@
 {
-    "index": "Get Started"
+    "index": "Get Started",
+    "gradient-descent": "Gradient Descent",
+    "artificial-neural-network": "Artificial Neural Network",
+    "overfitting-and-cross-validation": "Overfitting and Cross-Validation",
+    "regularization": "Regularization",
+    "meta-parameters": "Meta Parameters",
+    "feed-forward-neural-network": "Feed-Forward Neural Network",
+    "weight-init": "Weight Initialization",
+    "autoencoders": "Autoencoders",
+    "convolution-neural-network": "Convolution Neural Network",
+    "convolution-and-transformation": "Convolution and Transformation",
+    "transfer-learning": "Transfer Learning",
+    "generative-adversial-networks": "GANs",
+    "recurrent-neural-network": "Recurrent Neural Network",
+    "regression": "Regression Models",
+    "clusterning": "Clustering Models"
 }

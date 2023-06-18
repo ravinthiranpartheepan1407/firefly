@@ -1,3 +1,5 @@
 {
-    "index": "Home"
+    "index": "Home",
+    "c-api": "C++ API",
+    "java-api": "Java API"
 }
