@@ -3,7 +3,7 @@ import { useConfig } from "nextra-theme-docs";
 export default {
   logo: ({ locale }) => (
     <>
-      <span className="mr-2 hidden font-extrabold md:inline">Firefly</span>
+      <span className="mr-2 hidden font-extrabold md:inline">Vertez</span>
       <span className="hidden font-normal text-gray-600 md:inline">
         &nbsp;-&nbsp;Statify. Infer. Distribute
       </span>
@@ -12,16 +12,16 @@ export default {
   footer: true,
   themeSwitch: false,
   footerText: ({ locale }) => (
-    <>Firefly ${new Date().getFullYear()} © Arkhamm AI.</>
+    <>Vertez ${new Date().getFullYear()} © Arkhamm AI.</>
   ),
   banner: {
-    key: "Firefly - Version 0.1",
-    text: "Firefly - An Open Source Distributed Deep Learning Framework",
+    key: "Vertez - Version 0.1",
+    text: "Vertez - An Open Source Data Science Framework",
   },
   chat: {
-    link: "https://firefly.arkhamm.com", // Next.js discord server - yet to update,
+    link: "https://Vertez.arkhamm.com",
   },
-  docsRepositoryBase: "https://github.com/ravinthiranpartheepan1407/firefly",
+  docsRepositoryBase: "https://github.com/ravinthiranpartheepan1407/Vertez",
   faviconGlyph: "✦",
   useNextSeoProps() {
     const { frontMatter } = useConfig();
@@ -59,20 +59,20 @@ export default {
       ],
       additionalMetaTags: [
         { content: "en", httpEquiv: "Content-Language" },
-        { content: "Firefly", name: "apple-mobile-web-app-title" },
+        { content: "Vertez", name: "apple-mobile-web-app-title" },
         { content: "#fff", name: "msapplication-TileColor" },
         { content: "/ms-icon-144x144.png", name: "msapplication-TileImage" },
       ],
       description:
         frontMatter.description ||
-        "Firefly: AN Open Source Distributed Deep Learning Framework",
+        "Vertez: An Open Source Data Science Framework",
       openGraph: {
         images: [{ url: frontMatter.image || "/logo.png" }],
       },
-      titleTemplate: "%s – Firefly",
+      titleTemplate: "%s – Vertez",
       twitter: {
         cardType: "summary_large_image",
-        site: "https://firefly.arkhamm.com",
+        site: "https://Vertez.arkhamm.com",
       },
     };
   },

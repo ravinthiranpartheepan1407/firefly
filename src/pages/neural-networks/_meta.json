@@ -1,0 +1,10 @@
+{
+    "index": "Get Started",
+    "activation-functions": "Activation Functions",
+    "loss-functions": "Loss Functions",
+    "optimization": "Optimization",
+    "regularization": "Regularization",
+    "convolution": "Convolution",
+    "pooling": "Pooling Operations",
+    "weight-initialization": "Weight Initialization"
+}

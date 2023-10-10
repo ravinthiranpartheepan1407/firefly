@@ -1,8 +1,4 @@
 {
-    "index": "Home",
-    "computer-vision": "Firefly Vision",
-    "generative-ai": "Firefly Generatives",
-    "natural-language-processing": "Firefly NLP",
-    "time-series": "Firefly Time",
-    "reinforcement-learning": "Firefly Reinforcement"
+    "supervised-learning": "Supervised Learning",
+    "unsupervised-learning": "Unsupervised Learning"
 }

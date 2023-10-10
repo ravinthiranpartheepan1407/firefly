@@ -2,9 +2,8 @@
     "index": "Get Started",
     "community": "Community",
     "developer-notes": "Developer Notes",
-    "infernix": "Infernix",
-    "firefly": "Firefly",
-    "models": "Models",
-    "language-bindings": "Language Bindings",
-    "deployment": "Deployment"
+    "statistics": "Probability and Statistics",
+    "neural-networks": "Neural Networks",
+    "linear-algebra": "Linear Algebra",
+    "models": "Models"
 }
