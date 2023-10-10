@@ -15,11 +15,11 @@ export default {
     <>Vertez ${new Date().getFullYear()} © Arkhamm AI.</>
   ),
   banner: {
-    key: "Vertez - Version 0.1",
+    key: "Vertez",
     text: "Vertez - An Open Source Data Science Framework",
   },
   chat: {
-    link: "https://Vertez.arkhamm.com",
+    link: "https://Vertez.org",
   },
   docsRepositoryBase: "https://github.com/ravinthiranpartheepan1407/Vertez",
   faviconGlyph: "✦",
@@ -72,7 +72,7 @@ export default {
       titleTemplate: "%s – Vertez",
       twitter: {
         cardType: "summary_large_image",
-        site: "https://Vertez.arkhamm.com",
+        site: "https://Vertez.org",
       },
     };
   },
