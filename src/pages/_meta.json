@@ -1,9 +1,5 @@
 {
     "index": "Get Started",
-    "community": "Community",
-    "developer-notes": "Developer Notes",
-    "statistics": "Probability and Statistics",
-    "neural-networks": "Neural Networks",
-    "linear-algebra": "Linear Algebra",
-    "models": "Models"
+    "installation": "Installation",
+    "gan": "GAN Functions"
 }
